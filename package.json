@@ -1,5 +1,5 @@
 {
-  "name": "bail-lite",
+  "name": "BailGwTuh",
   "type": "module",
   "version": "1.0.3",
   "description": "Baileys Modded To Suit The Needs Of Others",
@@ -7,12 +7,12 @@
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/Lord-Samuel/Bail-lite/",
+  "homepage": "https://github.com/valderasea/bailgwtuh/",
   "repository": {
-    "url": "git@github.com:Lord-Samuel/Bail-lite.git"
+    "url": "git@github.com:valderasea/bailgwtuh.git"
   },
   "license": "MIT",
-  "author": "Lord-Samuel",
+  "author": "ValL",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
